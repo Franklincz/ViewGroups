@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewGroups</string>
+    <string name="casacambio">CASA DE CAMBIO</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name="importe">IMPORTE</string>
+    <string name="Resultado">RESULTADO</string>
+</resources>
